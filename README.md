@@ -23,7 +23,7 @@ Join me on LinkedIn, where I share insights and discuss my ongoing research inte
 ### Languages:
 | Python3 | R | SAS | Solidity |
 |----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/>|  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/SAS_logo_horiz.svg/2560px-SAS_logo_horiz.svg.png" title="SAS" alt="SAS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|
 
   
 
