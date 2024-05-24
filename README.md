@@ -106,6 +106,6 @@ Join me on LinkedIn, where I share insights and discuss my ongoing research inte
 
 
 ### How to reach me :mailbox:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/sam_gyps)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-messan/)
 
 
