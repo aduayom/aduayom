@@ -1,4 +1,4 @@
-### Hi there !!! 👋
+### Hi there !! 👋
 
 ### About Me:    
 I'm a data science and statistics graduate with a professional thesis on developing predictive lead models. I am passionate about data, particularly marketing analytics, evaluation models, time series, and advanced predictive models. I aim to raise awareness of these topics and foster a more active African data community.
