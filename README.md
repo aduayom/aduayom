@@ -15,7 +15,6 @@ Join me on LinkedIn, where I share insights and discuss my ongoing research inte
 
 - Lead Prediction B2C Model 
 - Marketing Topic Modeling Model
-- Clustering analysis : data viz
 - Establishment of Detailed Repository for Basic Prediction Models
 - Credit risk modeling on sas
 
