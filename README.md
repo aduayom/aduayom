@@ -13,7 +13,6 @@ Join me on LinkedIn, where I share insights and discuss my ongoing research inte
 
 ### Working on: 🚀
 
-- Lead Prediction B2C Model 
 - Marketing Topic Modeling Model
 - Clustering model Kprototype
 - Establishment of Detailed Repository for Basic Prediction Model
