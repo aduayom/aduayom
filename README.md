@@ -14,6 +14,7 @@ Join me on LinkedIn, where I share insights and discuss my ongoing research inte
 ### Working on: 🚀
 
 - Marketing Topic Modeling Model
+- Process for scoring web pages
 - Clustering model Kprototype
 - Establishment of Detailed Repository for Basic Prediction Model
 - Credit risk modeling on sas
